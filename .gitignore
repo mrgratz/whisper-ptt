@@ -5,3 +5,4 @@ __pycache__/
 # Runtime artifacts
 config.json
 daemon.log
+history.json
